@@ -2,11 +2,11 @@
 
 ***
 
-Nome do Estudante
+student name
 
-​    Numero do estudante
+​    student number
 
-## Linguagens de programação conhecidas: 
+## Known programming languages: 
 
 * C
 * Javacript

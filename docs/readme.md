@@ -15,7 +15,7 @@ Nome do Estudante
 
 ***
 
-> Metodologias de Desenvolvimento de Sofrware @ 2020
+Metodologias de Desenvolvimento de Sofrware @ 2020
 
 
 
