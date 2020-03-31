@@ -19,4 +19,4 @@ Metodologias de Desenvolvimento de Sofrware @ 2020
 
 
 
-![](C:\meuprojeto\git\ficha8\logo_ipl_header.png)
+![alt](https://www.ipleiria.pt/wp-content/themes/ipleiria/img/logo_ipl_header.png)
